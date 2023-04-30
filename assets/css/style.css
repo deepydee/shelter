@@ -1772,7 +1772,7 @@ body {
 }
 @media screen and (min-width: 1280px) {
   .pets-pets .pets__slider__wrapper {
-    min-width: 1300px;
+    min-width: 1200px;
   }
 }
 
